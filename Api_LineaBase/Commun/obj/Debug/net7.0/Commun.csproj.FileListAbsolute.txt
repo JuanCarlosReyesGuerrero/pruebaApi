@@ -1,0 +1,11 @@
+G:\Proyectos\Linea base\Api_LineaBase\Commun\bin\Debug\net7.0\Commun.deps.json
+G:\Proyectos\Linea base\Api_LineaBase\Commun\bin\Debug\net7.0\Commun.dll
+G:\Proyectos\Linea base\Api_LineaBase\Commun\bin\Debug\net7.0\Commun.pdb
+G:\Proyectos\Linea base\Api_LineaBase\Commun\obj\Debug\net7.0\Commun.GeneratedMSBuildEditorConfig.editorconfig
+G:\Proyectos\Linea base\Api_LineaBase\Commun\obj\Debug\net7.0\Commun.AssemblyInfoInputs.cache
+G:\Proyectos\Linea base\Api_LineaBase\Commun\obj\Debug\net7.0\Commun.AssemblyInfo.cs
+G:\Proyectos\Linea base\Api_LineaBase\Commun\obj\Debug\net7.0\Commun.csproj.CoreCompileInputs.cache
+G:\Proyectos\Linea base\Api_LineaBase\Commun\obj\Debug\net7.0\Commun.dll
+G:\Proyectos\Linea base\Api_LineaBase\Commun\obj\Debug\net7.0\refint\Commun.dll
+G:\Proyectos\Linea base\Api_LineaBase\Commun\obj\Debug\net7.0\Commun.pdb
+G:\Proyectos\Linea base\Api_LineaBase\Commun\obj\Debug\net7.0\ref\Commun.dll
