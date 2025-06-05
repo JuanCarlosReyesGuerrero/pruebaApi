@@ -22,6 +22,9 @@ namespace DomainLayer.EntityMapper
 
             CreateMap<Usuario, UsuarioDto>().ReverseMap();
             CreateMap<UsuarioDto, Usuario>();
+
+            CreateMap<Producto, ProductoDto>().ReverseMap();
+            CreateMap<ProductoDto, Producto>();
         }
     }
 }
