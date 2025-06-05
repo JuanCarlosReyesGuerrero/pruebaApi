@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\pruebas concepto\\pruebaApi\\Api_LineaBase\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A9555563-8B98-42E4-9CED-068B670E3276}|Api_LineaBase\\Api_LineaBase.csproj|d:\\pruebas concepto\\pruebaapi\\api_lineabase\\api_lineabase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9555563-8B98-42E4-9CED-068B670E3276}|Api_LineaBase\\Api_LineaBase.csproj|solutionrelative:api_lineabase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A9555563-8B98-42E4-9CED-068B670E3276}|Api_LineaBase\\Api_LineaBase.csproj|d:\\pruebas concepto\\pruebaapi\\api_lineabase\\api_lineabase\\controllers\\permisoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9555563-8B98-42E4-9CED-068B670E3276}|Api_LineaBase\\Api_LineaBase.csproj|solutionrelative:api_lineabase\\controllers\\permisoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A9555563-8B98-42E4-9CED-068B670E3276}|Api_LineaBase\\Api_LineaBase.csproj|d:\\pruebas concepto\\pruebaapi\\api_lineabase\\api_lineabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9555563-8B98-42E4-9CED-068B670E3276}|Api_LineaBase\\Api_LineaBase.csproj|solutionrelative:api_lineabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9555563-8B98-42E4-9CED-068B670E3276}|Api_LineaBase\\Api_LineaBase.csproj|d:\\pruebas concepto\\pruebaapi\\api_lineabase\\api_lineabase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A9555563-8B98-42E4-9CED-068B670E3276}|Api_LineaBase\\Api_LineaBase.csproj|solutionrelative:api_lineabase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 60,
+          "SelectedChildIndex": 66,
           "Children": [
             {
               "$type": "Bookmark",
@@ -282,20 +282,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PermisosController.cs",
               "DocumentMoniker": "D:\\pruebas concepto\\pruebaApi\\Api_LineaBase\\Api_LineaBase\\Controllers\\PermisosController.cs",
               "RelativeDocumentMoniker": "Api_LineaBase\\Controllers\\PermisosController.cs",
               "ToolTip": "D:\\pruebas concepto\\pruebaApi\\Api_LineaBase\\Api_LineaBase\\Controllers\\PermisosController.cs",
               "RelativeToolTip": "Api_LineaBase\\Controllers\\PermisosController.cs",
-              "ViewState": "AgIAALkAAAAAAAAAAAAvwMYAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAALkAAAAAAAAAAAAvwMAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T23:07:49.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "JwtSettings.cs",
               "DocumentMoniker": "D:\\pruebas concepto\\pruebaApi\\Api_LineaBase\\Commun\\Helpers\\JwtSettings.cs",
               "RelativeDocumentMoniker": "Commun\\Helpers\\JwtSettings.cs",
@@ -307,19 +307,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\pruebas concepto\\pruebaApi\\Api_LineaBase\\RepositoryLayer\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "RepositoryLayer\\Data\\ApplicationDbContext.cs",
               "ToolTip": "D:\\pruebas concepto\\pruebaApi\\Api_LineaBase\\RepositoryLayer\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "RepositoryLayer\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAcwEgAAABdAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAA0wEgAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T23:06:44.527Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "BackOfficeController.cs",
               "DocumentMoniker": "D:\\pruebas concepto\\pruebaApi\\Api_LineaBase\\Api_LineaBase\\Controllers\\BackOfficeController.cs",
               "RelativeDocumentMoniker": "Api_LineaBase\\Controllers\\BackOfficeController.cs",
@@ -331,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MensajeModel.cs",
               "DocumentMoniker": "D:\\pruebas concepto\\pruebaApi\\Api_LineaBase\\DomainLayer\\Models\\MensajeModel.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Models\\MensajeModel.cs",
@@ -343,7 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\pruebas concepto\\pruebaApi\\Api_LineaBase\\Api_LineaBase\\Program.cs",
               "RelativeDocumentMoniker": "Api_LineaBase\\Program.cs",
@@ -355,15 +355,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\pruebas concepto\\pruebaApi\\Api_LineaBase\\Api_LineaBase\\appsettings.json",
               "RelativeDocumentMoniker": "Api_LineaBase\\appsettings.json",
               "ToolTip": "D:\\pruebas concepto\\pruebaApi\\Api_LineaBase\\Api_LineaBase\\appsettings.json",
               "RelativeToolTip": "Api_LineaBase\\appsettings.json",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAuwB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-06T00:17:29.351Z"
+              "WhenOpened": "2025-02-06T00:17:29.351Z",
+              "EditorCaption": ""
             }
           ]
         }
