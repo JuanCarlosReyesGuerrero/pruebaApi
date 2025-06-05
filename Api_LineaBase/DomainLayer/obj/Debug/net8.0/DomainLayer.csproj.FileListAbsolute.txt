@@ -22,3 +22,4 @@ D:\pruebas concepto\pruebaApi\Api_LineaBase\DomainLayer\obj\Debug\net8.0\DomainL
 D:\pruebas concepto\pruebaApi\Api_LineaBase\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
 D:\pruebas concepto\pruebaApi\Api_LineaBase\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
 D:\pruebas concepto\pruebaApi\Api_LineaBase\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
+D:\pruebas concepto\pruebaApi\Api_LineaBase\DomainLayer\obj\Debug\net8.0\DomainLayer.sourcelink.json

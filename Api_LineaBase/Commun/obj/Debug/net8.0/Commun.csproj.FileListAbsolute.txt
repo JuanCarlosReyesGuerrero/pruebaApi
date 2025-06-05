@@ -20,3 +20,4 @@ D:\pruebas concepto\pruebaApi\Api_LineaBase\Commun\obj\Debug\net8.0\Commun.dll
 D:\pruebas concepto\pruebaApi\Api_LineaBase\Commun\obj\Debug\net8.0\refint\Commun.dll
 D:\pruebas concepto\pruebaApi\Api_LineaBase\Commun\obj\Debug\net8.0\Commun.pdb
 D:\pruebas concepto\pruebaApi\Api_LineaBase\Commun\obj\Debug\net8.0\ref\Commun.dll
+D:\pruebas concepto\pruebaApi\Api_LineaBase\Commun\obj\Debug\net8.0\Commun.sourcelink.json

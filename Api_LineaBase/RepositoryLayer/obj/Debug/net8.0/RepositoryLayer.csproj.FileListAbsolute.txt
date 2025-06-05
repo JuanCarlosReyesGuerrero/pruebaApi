@@ -36,3 +36,4 @@ D:\pruebas concepto\pruebaApi\Api_LineaBase\RepositoryLayer\obj\Debug\net8.0\ref
 D:\pruebas concepto\pruebaApi\Api_LineaBase\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.pdb
 D:\pruebas concepto\pruebaApi\Api_LineaBase\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.genruntimeconfig.cache
 D:\pruebas concepto\pruebaApi\Api_LineaBase\RepositoryLayer\obj\Debug\net8.0\ref\RepositoryLayer.dll
+D:\pruebas concepto\pruebaApi\Api_LineaBase\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.sourcelink.json

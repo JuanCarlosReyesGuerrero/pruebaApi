@@ -36,3 +36,4 @@ D:\pruebas concepto\pruebaApi\Api_LineaBase\ServiceLayer\obj\Debug\net8.0\Servic
 D:\pruebas concepto\pruebaApi\Api_LineaBase\ServiceLayer\obj\Debug\net8.0\refint\ServiceLayer.dll
 D:\pruebas concepto\pruebaApi\Api_LineaBase\ServiceLayer\obj\Debug\net8.0\ServiceLayer.pdb
 D:\pruebas concepto\pruebaApi\Api_LineaBase\ServiceLayer\obj\Debug\net8.0\ref\ServiceLayer.dll
+D:\pruebas concepto\pruebaApi\Api_LineaBase\ServiceLayer\obj\Debug\net8.0\ServiceLayer.sourcelink.json

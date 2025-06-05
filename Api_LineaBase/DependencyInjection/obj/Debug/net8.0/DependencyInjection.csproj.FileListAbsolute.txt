@@ -40,3 +40,4 @@ D:\pruebas concepto\pruebaApi\Api_LineaBase\DependencyInjection\obj\Debug\net8.0
 D:\pruebas concepto\pruebaApi\Api_LineaBase\DependencyInjection\obj\Debug\net8.0\refint\DependencyInjection.dll
 D:\pruebas concepto\pruebaApi\Api_LineaBase\DependencyInjection\obj\Debug\net8.0\DependencyInjection.pdb
 D:\pruebas concepto\pruebaApi\Api_LineaBase\DependencyInjection\obj\Debug\net8.0\ref\DependencyInjection.dll
+D:\pruebas concepto\pruebaApi\Api_LineaBase\DependencyInjection\obj\Debug\net8.0\DependencyInjection.sourcelink.json

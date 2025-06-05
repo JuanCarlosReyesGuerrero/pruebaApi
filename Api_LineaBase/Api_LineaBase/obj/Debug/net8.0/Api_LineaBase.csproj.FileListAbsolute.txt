@@ -345,3 +345,4 @@ D:\pruebas concepto\pruebaApi\Api_LineaBase\Api_LineaBase\obj\Debug\net8.0\refin
 D:\pruebas concepto\pruebaApi\Api_LineaBase\Api_LineaBase\obj\Debug\net8.0\Api_LineaBase.pdb
 D:\pruebas concepto\pruebaApi\Api_LineaBase\Api_LineaBase\obj\Debug\net8.0\Api_LineaBase.genruntimeconfig.cache
 D:\pruebas concepto\pruebaApi\Api_LineaBase\Api_LineaBase\obj\Debug\net8.0\ref\Api_LineaBase.dll
+D:\pruebas concepto\pruebaApi\Api_LineaBase\Api_LineaBase\obj\Debug\net8.0\Api_LineaBase.sourcelink.json
